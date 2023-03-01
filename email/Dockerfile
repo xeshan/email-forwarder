@@ -38,7 +38,7 @@ COPY       ./email/run.sh /run.sh
 COPY       ./email/opendkim.sh /opendkim.sh
 COPY       ./email/cert /etc/postfix/cert
 
-# clamsmtp 
+# clamsmtp
 COPY       ./email/clamsmtp.txt /clamsmtp.txt
 COPY       ./email/scripts /etc/postfix/scripts
 
