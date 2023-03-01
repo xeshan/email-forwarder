@@ -3,7 +3,7 @@
 This repository aimed to dockerise email forwarder application which contains API and Web UI
 
 
-## Step: 1. Get it up and running
+## Step: 1. Get it up and running 
 
 
 - Clone this repository.
